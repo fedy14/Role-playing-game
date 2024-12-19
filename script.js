@@ -160,3 +160,8 @@ function attack() {
   text.innerText += " You attack it with your " + weapons[currentWeaponIndex].name + ".";
 
 }
+
+
+function dodge() {
+
+}
